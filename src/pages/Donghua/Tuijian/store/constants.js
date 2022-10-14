@@ -1,0 +1,8 @@
+export const SET_FOURCARDLIST = 'SET_FOURCARDLIST';
+
+export const CHANGE_TUIJIAN_LOADING = 'CHANGE_TUIJIAN_LOADING';
+
+export const SET_TYPENAME = 'SET_TYPENAME'
+
+export const SET_TYPE = 'SET_TYPE'
+
